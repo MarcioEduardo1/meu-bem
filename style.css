@@ -1,0 +1,54 @@
+body {
+    background-color: #e499ff;
+}
+
+.pixel {
+    margin: auto;
+    text-align: center;
+    flex: auto;
+    background-color: #ff78b2;
+}
+
+.inicio {
+    margin: 100px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;  
+}
+
+.imagem {
+    text-align: center;
+    background-image: url(corações.png);
+    background-size: 300px;
+}
+
+.historia2 {
+    margin: 100px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+
+}
+
+.container {
+    
+    text-align: center;
+    display: inline-block;
+    display: flex;
+}
+
+.ouvimos {
+    font-size: 30px;
+    margin: 150px;
+    text-align: center;
+    border: #ab0030;
+    background-color: #9879fc;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card {
+    margin: 5px;);
+}
